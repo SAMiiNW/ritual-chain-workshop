@@ -1,0 +1,14 @@
+# Secrets
+.env
+**/.env
+
+# Node deps
+node_modules/
+scripts/node_modules/
+
+# Foundry artifacts
+hardhat/out/
+hardhat/cache/
+out/
+cache/
+broadcast/

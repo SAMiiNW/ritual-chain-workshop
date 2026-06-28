@@ -1,0 +1,13 @@
+{
+  "name": "sealed-bounty-scripts",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "whoami": "node whoami.mjs",
+    "deploy": "node deploy.mjs",
+    "demo": "node arena.mjs"
+  },
+  "dependencies": {
+    "viem": "2.21.54"
+  }
+}
